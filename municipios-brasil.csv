@@ -140,6 +140,7 @@ Amapá,SERRA DO NAVIO,1,1,1,1,1,1
 Amapá,TARTARUGALZINHO,1,1,1,1,1,1
 Amapá,VITÓRIA DO JARI,1,1,1,1,1,1
 Amazonas,ALVARÃES,1,1,1,1,1,1
+Amazonas,AMATURÁ,1,1,1,1,1,1
 Amazonas,ANAMÃ,1,1,1,1,1,1
 Amazonas,ANORI,1,1,1,1,1,1
 Amazonas,APUÍ,1,1,1,1,1,1
@@ -169,6 +170,7 @@ Amazonas,ITAPIRANGA,1,1,1,1,1,1
 Amazonas,JAPURÁ,1,1,1,1,1,1
 Amazonas,JURUÁ,1,1,1,1,1,1
 Amazonas,JUTAÍ,1,1,1,1,1,1
+Amazonas,LÁBREA,1,1,1,1,1,1
 Amazonas,MANACAPURU,1,1,1,1,1,1
 Amazonas,MANAQUIRI,1,1,1,1,1,1
 Amazonas,MANAUS,2,2,2,2,2,2
@@ -187,6 +189,7 @@ Amazonas,SANTA ISABEL DO RIO NEGRO,1,1,1,1,1,1
 Amazonas,SANTO ANTÔNIO DO IÇÁ,1,1,1,1,1,1
 Amazonas,SILVES,1,1,1,1,1,1
 Amazonas,SÃO GABRIEL DA CACHOEIRA,1,1,1,1,1,1
+Amazonas,SÃO PAULO DE OLIVENÇA,1,1,1,1,1,1
 Amazonas,SÃO SEBASTIÃO DO UATUMÃ,1,1,1,1,1,1
 Amazonas,TABATINGA,1,1,1,1,1,1
 Amazonas,TAPAUÁ,1,1,1,1,1,1
@@ -410,6 +413,7 @@ Bahia,JIQUIRIÇÁ,1,1,1,1,1,1
 Bahia,JITAÚNA,1,1,1,1,1,1
 Bahia,JOÃO DOURADO,1,1,1,1,1,1
 Bahia,JUAZEIRO,1,1,1,1,1,1
+Bahia,JUCURUÇU,1,1,1,1,1,1
 Bahia,JUSSARA,1,1,1,1,1,1
 Bahia,JUSSARI,1,1,1,1,1,1
 Bahia,JUSSIAPE,1,1,1,1,1,1
@@ -1470,6 +1474,7 @@ Mato grosso,TESOURO,1,1,1,1,1,1
 Mato grosso,UNIÃO DO SUL,1,1,1,1,1,1
 Mato grosso,VALE DE SÃO DOMINGOS,1,1,1,1,1,1
 Mato grosso,VERA,1,1,1,1,1,1
+Mato grosso,VILA BELA DA SANTÍSSIMA TRINDADE,1,1,1,1,1,1
 Mato grosso,VILA RICA,1,1,1,1,1,1
 Mato grosso,VÁRZEA GRANDE,1,1,1,1,1,1
 Mato grosso,ÁGUA BOA,1,1,1,1,1,1
@@ -3426,6 +3431,7 @@ Piauí,CURRALINHOS,1,1,1,1,1,1
 Piauí,DEMERVAL LOBÃO,1,1,1,1,1,1
 Piauí,DIRCEU ARCOVERDE,1,1,1,1,1,1
 Piauí,DOM EXPEDITO LOPES,1,1,1,1,1,1
+Piauí,DOM INOCÊNCIO,1,1,1,1,1,1
 Piauí,DOMINGOS MOURÃO,1,1,1,1,1,1
 Piauí,ELESBÃO VELOSO,1,1,1,1,1,1
 Piauí,ELISEU MARTINS,1,1,1,1,1,1
@@ -4329,58 +4335,58 @@ Rio grande do sul,WESTFALIA,1,1,1,1,1,1
 Rio grande do sul,XANGRI-LÁ,1,1,1,1,1,1
 Rio grande do sul,ÁGUA SANTA,1,1,1,1,1,1
 Rio grande do sul,ÁUREA,1,1,1,1,1,1
-Rondônia,ALTA FLORESTA DO OESTE,1,1,1,1,1,1
-Rondônia,ALTO ALEGRE DOS PARECIS,1,1,1,1,1,1
-Rondônia,ALTO PARAÍSO,1,1,1,1,1,1
-Rondônia,ALVORADA DO OESTE,1,1,1,1,1,1
-Rondônia,ARIQUEMES,1,1,1,1,1,1
-Rondônia,BURITIS,1,1,1,1,1,1
-Rondônia,CABIXI,1,1,1,1,1,1
-Rondônia,CACAULÂNDIA,1,1,1,1,1,1
-Rondônia,CACOAL,1,1,1,1,1,1
-Rondônia,CAMPO NOVO DE RONDÔNIA,1,1,1,1,1,1
-Rondônia,CANDEIAS DO JAMARI,1,1,1,1,1,1
-Rondônia,CASTANHEIRAS,1,1,1,1,1,1
-Rondônia,CEREJEIRAS,1,1,1,1,1,1
-Rondônia,CHUPINGUAIA,1,1,1,1,1,1
-Rondônia,COLORADO DO OESTE,1,1,1,1,1,1
-Rondônia,CORUMBIARA,1,1,1,1,1,1
-Rondônia,COSTA MARQUES,1,1,1,1,1,1
-Rondônia,CUJUBIM,1,1,1,1,1,1
-Rondônia,ESPIGÃO DO OESTE,1,1,1,1,1,1
-Rondônia,GOVERNADOR JORGE TEIXEIRA,1,1,1,1,1,1
-Rondônia,GUAJARÁ-MIRIM,1,1,1,1,1,1
-Rondônia,ITAPUÃ DO OESTE,1,1,1,1,1,1
-Rondônia,JARU,1,1,1,1,1,1
-Rondônia,JI-PARANÁ,1,1,1,1,1,1
-Rondônia,MACHADINHO DO OESTE,1,1,1,1,1,1
-Rondônia,MINISTRO ANDREAZZA,1,1,1,1,1,1
-Rondônia,MIRANTE DA SERRA,1,1,1,1,1,1
-Rondônia,MONTE NEGRO,1,1,1,1,1,1
-Rondônia,NOVA BRASILÂNDIA DO OESTE,1,1,1,1,1,1
-Rondônia,NOVA MAMORÉ,1,1,1,1,1,1
-Rondônia,NOVA UNIÃO,1,1,1,1,1,1
-Rondônia,NOVO HORIZONTE DO OESTE,1,1,1,1,1,1
-Rondônia,OURO PRETO DO OESTE,1,1,1,1,1,1
-Rondônia,PARECIS,1,1,1,1,1,1
-Rondônia,PIMENTA BUENO,1,1,1,1,1,1
-Rondônia,PIMENTEIRAS DO OESTE,1,1,1,1,1,1
-Rondônia,PORTO VELHO,2,2,2,2,2,2
-Rondônia,PRESIDENTE MÉDICI,1,1,1,1,1,1
-Rondônia,PRIMAVERA DE RONDÔNIA,1,1,1,1,1,1
-Rondônia,RIO CRESPO,1,1,1,1,1,1
-Rondônia,ROLIM DE MOURA,1,1,1,1,1,1
-Rondônia,SANTA LUZIA DO OESTE,1,1,1,1,1,1
-Rondônia,SERINGUEIRAS,1,1,1,1,1,1
-Rondônia,SÃO FELIPE DO OESTE,1,1,1,1,1,1
-Rondônia,SÃO FRANCISCO DO GUAPORÉ,1,1,1,1,1,1
-Rondônia,SÃO MIGUEL DO GUAPORÉ,1,1,1,1,1,1
-Rondônia,TEIXEIRÓPOLIS,1,1,1,1,1,1
-Rondônia,THEOBROMA,1,1,1,1,1,1
-Rondônia,URUPÁ,1,1,1,1,1,1
-Rondônia,VALE DO ANARI,1,1,1,1,1,1
-Rondônia,VALE DO PARAÍSO,1,1,1,1,1,1
-Rondônia,VILHENA,1,1,1,1,1,1
+Rondônia,ALTA FLORESTA DO OESTE,1,1,1,1,1,1
+Rondônia,ALTO ALEGRE DOS PARECIS,1,1,1,1,1,1
+Rondônia,ALTO PARAÍSO,1,1,1,1,1,1
+Rondônia,ALVORADA DO OESTE,1,1,1,1,1,1
+Rondônia,ARIQUEMES,1,1,1,1,1,1
+Rondônia,BURITIS,1,1,1,1,1,1
+Rondônia,CABIXI,1,1,1,1,1,1
+Rondônia,CACAULÂNDIA,1,1,1,1,1,1
+Rondônia,CACOAL,1,1,1,1,1,1
+Rondônia,CAMPO NOVO DE RONDÔNIA,1,1,1,1,1,1
+Rondônia,CANDEIAS DO JAMARI,1,1,1,1,1,1
+Rondônia,CASTANHEIRAS,1,1,1,1,1,1
+Rondônia,CEREJEIRAS,1,1,1,1,1,1
+Rondônia,CHUPINGUAIA,1,1,1,1,1,1
+Rondônia,COLORADO DO OESTE,1,1,1,1,1,1
+Rondônia,CORUMBIARA,1,1,1,1,1,1
+Rondônia,COSTA MARQUES,1,1,1,1,1,1
+Rondônia,CUJUBIM,1,1,1,1,1,1
+Rondônia,ESPIGÃO DO OESTE,1,1,1,1,1,1
+Rondônia,GOVERNADOR JORGE TEIXEIRA,1,1,1,1,1,1
+Rondônia,GUAJARÁ-MIRIM,1,1,1,1,1,1
+Rondônia,ITAPUÃ DO OESTE,1,1,1,1,1,1
+Rondônia,JARU,1,1,1,1,1,1
+Rondônia,JI-PARANÁ,1,1,1,1,1,1
+Rondônia,MACHADINHO DO OESTE,1,1,1,1,1,1
+Rondônia,MINISTRO ANDREAZZA,1,1,1,1,1,1
+Rondônia,MIRANTE DA SERRA,1,1,1,1,1,1
+Rondônia,MONTE NEGRO,1,1,1,1,1,1
+Rondônia,NOVA BRASILÂNDIA DO OESTE,1,1,1,1,1,1
+Rondônia,NOVA MAMORÉ,1,1,1,1,1,1
+Rondônia,NOVA UNIÃO,1,1,1,1,1,1
+Rondônia,NOVO HORIZONTE DO OESTE,1,1,1,1,1,1
+Rondônia,OURO PRETO DO OESTE,1,1,1,1,1,1
+Rondônia,PARECIS,1,1,1,1,1,1
+Rondônia,PIMENTA BUENO,1,1,1,1,1,1
+Rondônia,PIMENTEIRAS DO OESTE,1,1,1,1,1,1
+Rondônia,PORTO VELHO,2,2,2,2,2,2
+Rondônia,PRESIDENTE MÉDICI,1,1,1,1,1,1
+Rondônia,PRIMAVERA DE RONDÔNIA,1,1,1,1,1,1
+Rondônia,RIO CRESPO,1,1,1,1,1,1
+Rondônia,ROLIM DE MOURA,1,1,1,1,1,1
+Rondônia,SANTA LUZIA DO OESTE,1,1,1,1,1,1
+Rondônia,SERINGUEIRAS,1,1,1,1,1,1
+Rondônia,SÃO FELIPE DO OESTE,1,1,1,1,1,1
+Rondônia,SÃO FRANCISCO DO GUAPORÉ,1,1,1,1,1,1
+Rondônia,SÃO MIGUEL DO GUAPORÉ,1,1,1,1,1,1
+Rondônia,TEIXEIRÓPOLIS,1,1,1,1,1,1
+Rondônia,THEOBROMA,1,1,1,1,1,1
+Rondônia,URUPÁ,1,1,1,1,1,1
+Rondônia,VALE DO ANARI,1,1,1,1,1,1
+Rondônia,VALE DO PARAÍSO,1,1,1,1,1,1
+Rondônia,VILHENA,1,1,1,1,1,1
 Roraima,ALTO ALEGRE,1,1,1,1,1,1
 Roraima,AMAJARI,1,1,1,1,1,1
 Roraima,BOA VISTA,1,1,1,1,1,1
@@ -4691,650 +4697,6 @@ Santa catarina,ÁGUA DOCE,1,1,1,1,1,1
 Santa catarina,ÁGUAS DE CHAPECÓ,1,1,1,1,1,1
 Santa catarina,ÁGUAS FRIAS,1,1,1,1,1,1
 Santa catarina,ÁGUAS MORNAS,1,1,1,1,1,1
-São paulo,ADAMANTINA,1,1,1,1,1,1
-São paulo,ADOLFO,1,1,1,1,1,1
-São paulo,AGUAÍ,1,1,1,1,1,1
-São paulo,AGUDOS,1,1,1,1,1,1
-São paulo,ALAMBARI,1,1,1,1,1,1
-São paulo,ALFREDO MARCONDES,1,1,1,1,1,1
-São paulo,ALTAIR,1,1,1,1,1,1
-São paulo,ALTINÓPOLIS,1,1,1,1,1,1
-São paulo,ALTO ALEGRE,1,1,1,1,1,1
-São paulo,ALUMÍNIO,1,1,1,1,1,1
-São paulo,ALVINLÂNDIA,1,1,1,1,1,1
-São paulo,AMERICANA,1,1,1,1,1,1
-São paulo,AMPARO,1,1,1,1,1,1
-São paulo,AMÉRICO BRASILIENSE,1,1,1,1,1,1
-São paulo,AMÉRICO DE CAMPOS,1,1,1,1,1,1
-São paulo,ANALÂNDIA,1,1,1,1,1,1
-São paulo,ANDRADINA,1,1,1,1,1,1
-São paulo,ANGATUBA,1,1,1,1,1,1
-São paulo,ANHEMBI,1,1,1,1,1,1
-São paulo,ANHUMAS,1,1,1,1,1,1
-São paulo,APARECIDA,1,1,1,1,1,1
-São paulo,APARECIDA D'OESTE,1,1,1,1,1,1
-São paulo,APIAÍ,1,1,1,1,1,1
-São paulo,ARAMINA,1,1,1,1,1,1
-São paulo,ARANDU,1,1,1,1,1,1
-São paulo,ARAPEÍ,1,1,1,1,1,1
-São paulo,ARARAQUARA,1,1,1,1,1,1
-São paulo,ARARAS,1,1,1,1,1,1
-São paulo,ARAÇARIGUAMA,1,1,1,1,1,1
-São paulo,ARAÇATUBA,1,1,1,1,1,1
-São paulo,ARAÇOIABA DA SERRA,1,1,1,1,1,1
-São paulo,ARCO-ÍRIS,1,1,1,1,1,1
-São paulo,AREALVA,1,1,1,1,1,1
-São paulo,AREIAS,1,1,1,1,1,1
-São paulo,AREIÓPOLIS,1,1,1,1,1,1
-São paulo,ARIRANHA,1,1,1,1,1,1
-São paulo,ARTUR NOGUEIRA,1,1,1,1,1,1
-São paulo,ARUJÁ,1,1,1,1,1,1
-São paulo,ASPÁSIA,1,1,1,1,1,1
-São paulo,ASSIS,1,1,1,1,1,1
-São paulo,ATIBAIA,1,1,1,1,1,1
-São paulo,AURIFLAMA,1,1,1,1,1,1
-São paulo,AVANHANDAVA,1,1,1,1,1,1
-São paulo,AVARÉ,1,1,1,1,1,1
-São paulo,AVAÍ,1,1,1,1,1,1
-São paulo,BADY BASSITT,1,1,1,1,1,1
-São paulo,BALBINOS,1,1,1,1,1,1
-São paulo,BANANAL,1,1,1,1,1,1
-São paulo,BARBOSA,1,1,1,1,1,1
-São paulo,BARIRI,1,1,1,1,1,1
-São paulo,BARRA BONITA,1,1,1,1,1,1
-São paulo,BARRA DO CHAPÉU,1,1,1,1,1,1
-São paulo,BARRA DO TURVO,1,1,1,1,1,1
-São paulo,BARRETOS,1,1,1,1,1,1
-São paulo,BARRINHA,1,1,1,1,1,1
-São paulo,BARUERI,1,1,1,1,1,1
-São paulo,BARÃO DE ANTONINA,1,1,1,1,1,1
-São paulo,BASTOS,1,1,1,1,1,1
-São paulo,BATATAIS,1,1,1,1,1,1
-São paulo,BAURU,2,2,2,2,2,2
-São paulo,BEBEDOURO,1,1,1,1,1,1
-São paulo,BENTO DE ABREU,1,1,1,1,1,1
-São paulo,BERNARDINO DE CAMPOS,1,1,1,1,1,1
-São paulo,BERTIOGA,1,1,1,1,1,1
-São paulo,BILAC,1,1,1,1,1,1
-São paulo,BIRIGUI,1,1,1,1,1,1
-São paulo,BIRITIBA MIRIM,1,1,1,1,1,1
-São paulo,BOA ESPERANÇA DO SUL,1,1,1,1,1,1
-São paulo,BOCAINA,1,1,1,1,1,1
-São paulo,BOFETE,1,1,1,1,1,1
-São paulo,BOITUVA,1,1,1,1,1,1
-São paulo,BOM JESUS DOS PERDÕES,1,1,1,1,1,1
-São paulo,BOM SUCESSO DE ITARARÉ,1,1,1,1,1,1
-São paulo,BORACÉIA,1,1,1,1,1,1
-São paulo,BORBOREMA,1,1,1,1,1,1
-São paulo,BOREBI,1,1,1,1,1,1
-São paulo,BORÁ,1,1,1,1,1,1
-São paulo,BOTUCATU,1,1,1,1,1,1
-São paulo,BRAGANÇA PAULISTA,1,1,1,1,1,1
-São paulo,BRAÚNA,1,1,1,1,1,1
-São paulo,BREJO ALEGRE,1,1,1,1,1,1
-São paulo,BRODOWSKI,1,1,1,1,1,1
-São paulo,BROTAS,1,1,1,1,1,1
-São paulo,BURI,1,1,1,1,1,1
-São paulo,BURITAMA,1,1,1,1,1,1
-São paulo,BURITIZAL,1,1,1,1,1,1
-São paulo,BÁLSAMO,1,1,1,1,1,1
-São paulo,CABREÚVA,1,1,1,1,1,1
-São paulo,CABRÁLIA PAULISTA,1,1,1,1,1,1
-São paulo,CACHOEIRA PAULISTA,1,1,1,1,1,1
-São paulo,CACONDE,1,1,1,1,1,1
-São paulo,CAFELÂNDIA,1,1,1,1,1,1
-São paulo,CAIABU,1,1,1,1,1,1
-São paulo,CAIEIRAS,1,1,1,1,1,1
-São paulo,CAIUÁ,1,1,1,1,1,1
-São paulo,CAJAMAR,1,1,1,1,1,1
-São paulo,CAJATI,1,1,1,1,1,1
-São paulo,CAJOBI,1,1,1,1,1,1
-São paulo,CAJURU,1,1,1,1,1,1
-São paulo,CAMPINA DO MONTE ALEGRE,1,1,1,1,1,1
-São paulo,CAMPINAS,1,1,1,1,1,1
-São paulo,CAMPO LIMPO PAULISTA,1,1,1,1,1,1
-São paulo,CAMPOS DO JORDÃO,1,1,1,1,1,1
-São paulo,CAMPOS NOVOS PAULISTA,1,1,1,1,1,1
-São paulo,CANANÉIA,1,1,1,1,1,1
-São paulo,CANAS,1,1,1,1,1,1
-São paulo,CANITAR,1,1,1,1,1,1
-São paulo,CAPELA DO ALTO,1,1,1,1,1,1
-São paulo,CAPIVARI,1,1,1,1,1,1
-São paulo,CAPÃO BONITO,1,1,1,1,1,1
-São paulo,CARAGUATATUBA,1,1,1,1,1,1
-São paulo,CARAPICUÍBA,1,1,1,1,1,1
-São paulo,CARDOSO,1,1,1,1,1,1
-São paulo,CASA BRANCA,1,1,1,1,1,1
-São paulo,CASTILHO,1,1,1,1,1,1
-São paulo,CATANDUVA,1,1,1,1,1,1
-São paulo,CATIGUÁ,1,1,1,1,1,1
-São paulo,CAÇAPAVA,1,1,1,1,1,1
-São paulo,CEDRAL,1,1,1,1,1,1
-São paulo,CERQUEIRA CÉSAR,1,1,1,1,1,1
-São paulo,CERQUILHO,1,1,1,1,1,1
-São paulo,CESÁRIO LANGE,1,1,1,1,1,1
-São paulo,CHARQUEADA,1,1,1,1,1,1
-São paulo,CHAVANTES,1,1,1,1,1,1
-São paulo,CLEMENTINA,1,1,1,1,1,1
-São paulo,COLINA,1,1,1,1,1,1
-São paulo,COLÔMBIA,1,1,1,1,1,1
-São paulo,CONCHAL,1,1,1,1,1,1
-São paulo,CONCHAS,1,1,1,1,1,1
-São paulo,CORDEIRÓPOLIS,1,1,1,1,1,1
-São paulo,COROADOS,1,1,1,1,1,1
-São paulo,CORONEL MACEDO,1,1,1,1,1,1
-São paulo,CORUMBATAÍ,1,1,1,1,1,1
-São paulo,COSMORAMA,1,1,1,1,1,1
-São paulo,COSMÓPOLIS,1,1,1,1,1,1
-São paulo,COTIA,1,1,1,1,1,1
-São paulo,CRAVINHOS,1,1,1,1,1,1
-São paulo,CRISTAIS PAULISTA,1,1,1,1,1,1
-São paulo,CRUZEIRO,1,1,1,1,1,1
-São paulo,CRUZÁLIA,1,1,1,1,1,1
-São paulo,CUBATÃO,1,1,1,1,1,1
-São paulo,CUNHA,1,1,1,1,1,1
-São paulo,CÁSSIA DOS COQUEIROS,1,1,1,1,1,1
-São paulo,CÂNDIDO MOTA,1,1,1,1,1,1
-São paulo,CÂNDIDO RODRIGUES,1,1,1,1,1,1
-São paulo,DESCALVADO,1,1,1,1,1,1
-São paulo,DIADEMA,2,2,2,2,2,2
-São paulo,DIRCE REIS,1,1,1,1,1,1
-São paulo,DIVINOLÂNDIA,1,1,1,1,1,1
-São paulo,DOBRADA,1,1,1,1,1,1
-São paulo,DOIS CÓRREGOS,1,1,1,1,1,1
-São paulo,DOLCINÓPOLIS,1,1,1,1,1,1
-São paulo,DOURADO,1,1,1,1,1,1
-São paulo,DRACENA,1,1,1,1,1,1
-São paulo,DUARTINA,1,1,1,1,1,1
-São paulo,DUMONT,1,1,1,1,1,1
-São paulo,ECHAPORÃ,1,1,1,1,1,1
-São paulo,ELDORADO,1,1,1,1,1,1
-São paulo,ELIAS FAUSTO,1,1,1,1,1,1
-São paulo,ELISIÁRIO,1,1,1,1,1,1
-São paulo,EMBAÚBA,1,1,1,1,1,1
-São paulo,EMBU DAS ARTES,1,1,1,1,1,1
-São paulo,EMBU-GUAÇU,1,1,1,1,1,1
-São paulo,EMILIANÓPOLIS,1,1,1,1,1,1
-São paulo,ENGENHEIRO COELHO,1,1,1,1,1,1
-São paulo,ESPÍRITO SANTO DO PINHAL,1,1,1,1,1,1
-São paulo,ESPÍRITO SANTO DO TURVO,1,1,1,1,1,1
-São paulo,ESTIVA GERBI,1,1,1,1,1,1
-São paulo,ESTRELA D'OESTE,1,1,1,1,1,1
-São paulo,ESTRELA DO NORTE,1,1,1,1,1,1
-São paulo,EUCLIDES DA CUNHA PAULISTA,1,1,1,1,1,1
-São paulo,FARTURA,1,1,1,1,1,1
-São paulo,FERNANDO PRESTES,1,1,1,1,1,1
-São paulo,FERNANDÓPOLIS,1,1,1,1,1,1
-São paulo,FERNÃO,1,1,1,1,1,1
-São paulo,FERRAZ DE VASCONCELOS,1,1,1,1,1,1
-São paulo,FLORA RICA,1,1,1,1,1,1
-São paulo,FLOREAL,1,1,1,1,1,1
-São paulo,FLORÍNEA,1,1,1,1,1,1
-São paulo,FLÓRIDA PAULISTA,1,1,1,1,1,1
-São paulo,FRANCA,2,2,2,2,2,2
-São paulo,FRANCISCO MORATO,1,1,1,1,1,1
-São paulo,FRANCO DA ROCHA,1,1,1,1,1,1
-São paulo,GABRIEL MONTEIRO,1,1,1,1,1,1
-São paulo,GARÇA,1,1,1,1,1,1
-São paulo,GASTÃO VIDIGAL,1,1,1,1,1,1
-São paulo,GAVIÃO PEIXOTO,1,1,1,1,1,1
-São paulo,GENERAL SALGADO,1,1,1,1,1,1
-São paulo,GETULINA,1,1,1,1,1,1
-São paulo,GLICÉRIO,1,1,1,1,1,1
-São paulo,GUAIMBÉ,1,1,1,1,1,1
-São paulo,GUAIÇARA,1,1,1,1,1,1
-São paulo,GUAPIARA,1,1,1,1,1,1
-São paulo,GUAPIAÇU,1,1,1,1,1,1
-São paulo,GUARACI,1,1,1,1,1,1
-São paulo,GUARANI D'OESTE,1,1,1,1,1,1
-São paulo,GUARANTÃ,1,1,1,1,1,1
-São paulo,GUARARAPES,1,1,1,1,1,1
-São paulo,GUARAREMA,1,1,1,1,1,1
-São paulo,GUARATINGUETÁ,1,1,1,1,1,1
-São paulo,GUARAÇAÍ,1,1,1,1,1,1
-São paulo,GUAREÍ,1,1,1,1,1,1
-São paulo,GUARIBA,1,1,1,1,1,1
-São paulo,GUARUJÁ,2,2,2,2,2,2
-São paulo,GUARULHOS,2,2,2,2,2,2
-São paulo,GUARÁ,1,1,1,1,1,1
-São paulo,GUATAPARÁ,1,1,1,1,1,1
-São paulo,GUAÍRA,1,1,1,1,1,1
-São paulo,GUZOLÂNDIA,1,1,1,1,1,1
-São paulo,GÁLIA,1,1,1,1,1,1
-São paulo,HERCULÂNDIA,1,1,1,1,1,1
-São paulo,HOLAMBRA,1,1,1,1,1,1
-São paulo,HORTOLÂNDIA,1,1,1,1,1,1
-São paulo,IACRI,1,1,1,1,1,1
-São paulo,IARAS,1,1,1,1,1,1
-São paulo,IBATÉ,1,1,1,1,1,1
-São paulo,IBIRAREMA,1,1,1,1,1,1
-São paulo,IBIRÁ,1,1,1,1,1,1
-São paulo,IBITINGA,1,1,1,1,1,1
-São paulo,IBIÚNA,1,1,1,1,1,1
-São paulo,ICÉM,1,1,1,1,1,1
-São paulo,IEPÊ,1,1,1,1,1,1
-São paulo,IGARAPAVA,1,1,1,1,1,1
-São paulo,IGARATÁ,1,1,1,1,1,1
-São paulo,IGARAÇU DO TIETÊ,1,1,1,1,1,1
-São paulo,IGUAPE,1,1,1,1,1,1
-São paulo,ILHA COMPRIDA,1,1,1,1,1,1
-São paulo,ILHA SOLTEIRA,1,1,1,1,1,1
-São paulo,ILHABELA,1,1,1,1,1,1
-São paulo,INDAIATUBA,1,1,1,1,1,1
-São paulo,INDIANA,1,1,1,1,1,1
-São paulo,INDIAPORÃ,1,1,1,1,1,1
-São paulo,INÚBIA PAULISTA,1,1,1,1,1,1
-São paulo,IPAUSSU,1,1,1,1,1,1
-São paulo,IPERÓ,1,1,1,1,1,1
-São paulo,IPEÚNA,1,1,1,1,1,1
-São paulo,IPIGUÁ,1,1,1,1,1,1
-São paulo,IPORANGA,1,1,1,1,1,1
-São paulo,IPUÃ,1,1,1,1,1,1
-São paulo,IRACEMÁPOLIS,1,1,1,1,1,1
-São paulo,IRAPURU,1,1,1,1,1,1
-São paulo,IRAPUÃ,1,1,1,1,1,1
-São paulo,ITABERÁ,1,1,1,1,1,1
-São paulo,ITAJOBI,1,1,1,1,1,1
-São paulo,ITAJU,1,1,1,1,1,1
-São paulo,ITANHAÉM,1,1,1,1,1,1
-São paulo,ITAOCA,1,1,1,1,1,1
-São paulo,ITAPECERICA DA SERRA,1,1,1,1,1,1
-São paulo,ITAPETININGA,1,1,1,1,1,1
-São paulo,ITAPEVA,1,1,1,1,1,1
-São paulo,ITAPEVI,1,1,1,1,1,1
-São paulo,ITAPIRA,1,1,1,1,1,1
-São paulo,ITAPIRAPUÃ PAULISTA,1,1,1,1,1,1
-São paulo,ITAPORANGA,1,1,1,1,1,1
-São paulo,ITAPURA,1,1,1,1,1,1
-São paulo,ITAPUÍ,1,1,1,1,1,1
-São paulo,ITAQUAQUECETUBA,1,1,1,1,1,1
-São paulo,ITARARÉ,1,1,1,1,1,1
-São paulo,ITARIRI,1,1,1,1,1,1
-São paulo,ITATIBA,1,1,1,1,1,1
-São paulo,ITATINGA,1,1,1,1,1,1
-São paulo,ITAÍ,1,1,1,1,1,1
-São paulo,ITIRAPINA,1,1,1,1,1,1
-São paulo,ITIRAPUÃ,1,1,1,1,1,1
-São paulo,ITOBI,1,1,1,1,1,1
-São paulo,ITU,1,1,1,1,1,1
-São paulo,ITUPEVA,1,1,1,1,1,1
-São paulo,ITUVERAVA,1,1,1,1,1,1
-São paulo,ITÁPOLIS,1,1,1,1,1,1
-São paulo,JABORANDI,1,1,1,1,1,1
-São paulo,JABOTICABAL,1,1,1,1,1,1
-São paulo,JACAREÍ,1,1,1,1,1,1
-São paulo,JACI,1,1,1,1,1,1
-São paulo,JACUPIRANGA,1,1,1,1,1,1
-São paulo,JAGUARIÚNA,1,1,1,1,1,1
-São paulo,JALES,1,1,1,1,1,1
-São paulo,JAMBEIRO,1,1,1,1,1,1
-São paulo,JANDIRA,1,1,1,1,1,1
-São paulo,JARDINÓPOLIS,1,1,1,1,1,1
-São paulo,JARINU,1,1,1,1,1,1
-São paulo,JAÚ,1,1,1,1,1,1
-São paulo,JERIQUARA,1,1,1,1,1,1
-São paulo,JOANÓPOLIS,1,1,1,1,1,1
-São paulo,JOSÉ BONIFÁCIO,1,1,1,1,1,1
-São paulo,JOÃO RAMALHO,1,1,1,1,1,1
-São paulo,JUMIRIM,1,1,1,1,1,1
-São paulo,JUNDIAÍ,2,2,2,2,2,2
-São paulo,JUNQUEIRÓPOLIS,1,1,1,1,1,1
-São paulo,JUQUITIBA,1,1,1,1,1,1
-São paulo,JUQUIÁ,1,1,1,1,1,1
-São paulo,JÚLIO MESQUITA,1,1,1,1,1,1
-São paulo,LAGOINHA,1,1,1,1,1,1
-São paulo,LARANJAL PAULISTA,1,1,1,1,1,1
-São paulo,LAVRINHAS,1,1,1,1,1,1
-São paulo,LAVÍNIA,1,1,1,1,1,1
-São paulo,LEME,1,1,1,1,1,1
-São paulo,LENÇÓIS PAULISTA,1,1,1,1,1,1
-São paulo,LIMEIRA,1,1,1,1,1,1
-São paulo,LINDÓIA,1,1,1,1,1,1
-São paulo,LINS,1,1,1,1,1,1
-São paulo,LORENA,1,1,1,1,1,1
-São paulo,LOURDES,1,1,1,1,1,1
-São paulo,LOUVEIRA,1,1,1,1,1,1
-São paulo,LUCIANÓPOLIS,1,1,1,1,1,1
-São paulo,LUCÉLIA,1,1,1,1,1,1
-São paulo,LUIZIÂNIA,1,1,1,1,1,1
-São paulo,LUPÉRCIO,1,1,1,1,1,1
-São paulo,LUTÉCIA,1,1,1,1,1,1
-São paulo,LUÍS ANTÔNIO,1,1,1,1,1,1
-São paulo,MACATUBA,1,1,1,1,1,1
-São paulo,MACAUBAL,1,1,1,1,1,1
-São paulo,MACEDÔNIA,1,1,1,1,1,1
-São paulo,MAGDA,1,1,1,1,1,1
-São paulo,MAIRINQUE,1,1,1,1,1,1
-São paulo,MAIRIPORÃ,1,1,1,1,1,1
-São paulo,MANDURI,1,1,1,1,1,1
-São paulo,MARABÁ PAULISTA,1,1,1,1,1,1
-São paulo,MARACAÍ,1,1,1,1,1,1
-São paulo,MARAPOAMA,1,1,1,1,1,1
-São paulo,MARINÓPOLIS,1,1,1,1,1,1
-São paulo,MARIÁPOLIS,1,1,1,1,1,1
-São paulo,MARTINÓPOLIS,1,1,1,1,1,1
-São paulo,MARÍLIA,1,1,1,1,1,1
-São paulo,MATÃO,1,1,1,1,1,1
-São paulo,MAUÁ,2,2,2,2,2,2
-São paulo,MENDONÇA,1,1,1,1,1,1
-São paulo,MERIDIANO,1,1,1,1,1,1
-São paulo,MESÓPOLIS,1,1,1,1,1,1
-São paulo,MIGUELÓPOLIS,1,1,1,1,1,1
-São paulo,MINEIROS DO TIETÊ,1,1,1,1,1,1
-São paulo,MIRA ESTRELA,1,1,1,1,1,1
-São paulo,MIRACATU,1,1,1,1,1,1
-São paulo,MIRANDÓPOLIS,1,1,1,1,1,1
-São paulo,MIRANTE DO PARANAPANEMA,1,1,1,1,1,1
-São paulo,MIRASSOL,1,1,1,1,1,1
-São paulo,MIRASSOLÂNDIA,1,1,1,1,1,1
-São paulo,MOCOCA,1,1,1,1,1,1
-São paulo,MOGI DAS CRUZES,1,1,1,1,1,1
-São paulo,MOGI GUAÇU,1,1,1,1,1,1
-São paulo,MOGI MIRIM,1,1,1,1,1,1
-São paulo,MOMBUCA,1,1,1,1,1,1
-São paulo,MONGAGUÁ,1,1,1,1,1,1
-São paulo,MONTE ALEGRE DO SUL,1,1,1,1,1,1
-São paulo,MONTE ALTO,1,1,1,1,1,1
-São paulo,MONTE APRAZÍVEL,1,1,1,1,1,1
-São paulo,MONTE AZUL PAULISTA,1,1,1,1,1,1
-São paulo,MONTE CASTELO,1,1,1,1,1,1
-São paulo,MONTE MOR,1,1,1,1,1,1
-São paulo,MONTEIRO LOBATO,1,1,1,1,1,1
-São paulo,MONÇÕES,1,1,1,1,1,1
-São paulo,MORRO AGUDO,1,1,1,1,1,1
-São paulo,MORUNGABA,1,1,1,1,1,1
-São paulo,MOTUCA,1,1,1,1,1,1
-São paulo,MURUTINGA DO SUL,1,1,1,1,1,1
-São paulo,NANTES,1,1,1,1,1,1
-São paulo,NARANDIBA,1,1,1,1,1,1
-São paulo,NATIVIDADE DA SERRA,1,1,1,1,1,1
-São paulo,NAZARÉ PAULISTA,1,1,1,1,1,1
-São paulo,NEVES PAULISTA,1,1,1,1,1,1
-São paulo,NHANDEARA,1,1,1,1,1,1
-São paulo,NIPOÃ,1,1,1,1,1,1
-São paulo,NOVA ALIANÇA,1,1,1,1,1,1
-São paulo,NOVA CAMPINA,1,1,1,1,1,1
-São paulo,NOVA CANAÃ PAULISTA,1,1,1,1,1,1
-São paulo,NOVA CASTILHO,1,1,1,1,1,1
-São paulo,NOVA EUROPA,1,1,1,1,1,1
-São paulo,NOVA GRANADA,1,1,1,1,1,1
-São paulo,NOVA GUATAPORANGA,1,1,1,1,1,1
-São paulo,NOVA INDEPENDÊNCIA,1,1,1,1,1,1
-São paulo,NOVA LUZITÂNIA,1,1,1,1,1,1
-São paulo,NOVA ODESSA,1,1,1,1,1,1
-São paulo,NOVAIS,1,1,1,1,1,1
-São paulo,NOVO HORIZONTE,1,1,1,1,1,1
-São paulo,NUPORANGA,1,1,1,1,1,1
-São paulo,OCAUÇU,1,1,1,1,1,1
-São paulo,OLÍMPIA,1,1,1,1,1,1
-São paulo,ONDA VERDE,1,1,1,1,1,1
-São paulo,ORIENTE,1,1,1,1,1,1
-São paulo,ORINDIÚVA,1,1,1,1,1,1
-São paulo,ORLÂNDIA,1,1,1,1,1,1
-São paulo,OSASCO,2,2,2,2,2,2
-São paulo,OSCAR BRESSANE,1,1,1,1,1,1
-São paulo,OSVALDO CRUZ,1,1,1,1,1,1
-São paulo,OURINHOS,1,1,1,1,1,1
-São paulo,OURO VERDE,1,1,1,1,1,1
-São paulo,OUROESTE,1,1,1,1,1,1
-São paulo,PACAEMBU,1,1,1,1,1,1
-São paulo,PALESTINA,1,1,1,1,1,1
-São paulo,PALMARES PAULISTA,1,1,1,1,1,1
-São paulo,PALMEIRA D'OESTE,1,1,1,1,1,1
-São paulo,PALMITAL,1,1,1,1,1,1
-São paulo,PANORAMA,1,1,1,1,1,1
-São paulo,PARAGUAÇU PAULISTA,1,1,1,1,1,1
-São paulo,PARAIBUNA,1,1,1,1,1,1
-São paulo,PARANAPANEMA,1,1,1,1,1,1
-São paulo,PARANAPUÃ,1,1,1,1,1,1
-São paulo,PARAPUÃ,1,1,1,1,1,1
-São paulo,PARAÍSO,1,1,1,1,1,1
-São paulo,PARDINHO,1,1,1,1,1,1
-São paulo,PARIQUERA-AÇU,1,1,1,1,1,1
-São paulo,PARISI,1,1,1,1,1,1
-São paulo,PATROCÍNIO PAULISTA,1,1,1,1,1,1
-São paulo,PAULICÉIA,1,1,1,1,1,1
-São paulo,PAULISTÂNIA,1,1,1,1,1,1
-São paulo,PAULO DE FARIA,1,1,1,1,1,1
-São paulo,PAULÍNIA,1,1,1,1,1,1
-São paulo,PEDERNEIRAS,1,1,1,1,1,1
-São paulo,PEDRA BELA,1,1,1,1,1,1
-São paulo,PEDRANÓPOLIS,1,1,1,1,1,1
-São paulo,PEDREGULHO,1,1,1,1,1,1
-São paulo,PEDREIRA,1,1,1,1,1,1
-São paulo,PEDRINHAS PAULISTA,1,1,1,1,1,1
-São paulo,PEDRO DE TOLEDO,1,1,1,1,1,1
-São paulo,PENÁPOLIS,1,1,1,1,1,1
-São paulo,PEREIRA BARRETO,1,1,1,1,1,1
-São paulo,PEREIRAS,1,1,1,1,1,1
-São paulo,PERUÍBE,1,1,1,1,1,1
-São paulo,PIACATU,1,1,1,1,1,1
-São paulo,PIEDADE,1,1,1,1,1,1
-São paulo,PILAR DO SUL,1,1,1,1,1,1
-São paulo,PINDAMONHANGABA,1,1,1,1,1,1
-São paulo,PINDORAMA,1,1,1,1,1,1
-São paulo,PINHALZINHO,1,1,1,1,1,1
-São paulo,PIQUEROBI,1,1,1,1,1,1
-São paulo,PIQUETE,1,1,1,1,1,1
-São paulo,PIRACAIA,1,1,1,1,1,1
-São paulo,PIRACICABA,1,1,1,1,1,1
-São paulo,PIRAJU,1,1,1,1,1,1
-São paulo,PIRAJUÍ,1,1,1,1,1,1
-São paulo,PIRANGI,1,1,1,1,1,1
-São paulo,PIRAPORA DO BOM JESUS,1,1,1,1,1,1
-São paulo,PIRAPOZINHO,1,1,1,1,1,1
-São paulo,PIRASSUNUNGA,1,1,1,1,1,1
-São paulo,PIRATININGA,1,1,1,1,1,1
-São paulo,PITANGUEIRAS,1,1,1,1,1,1
-São paulo,PLANALTO,1,1,1,1,1,1
-São paulo,PLATINA,1,1,1,1,1,1
-São paulo,POLONI,1,1,1,1,1,1
-São paulo,POMPÉIA,1,1,1,1,1,1
-São paulo,PONGAÍ,1,1,1,1,1,1
-São paulo,PONTAL,1,1,1,1,1,1
-São paulo,PONTALINDA,1,1,1,1,1,1
-São paulo,PONTES GESTAL,1,1,1,1,1,1
-São paulo,POPULINA,1,1,1,1,1,1
-São paulo,PORANGABA,1,1,1,1,1,1
-São paulo,PORTO FELIZ,1,1,1,1,1,1
-São paulo,PORTO FERREIRA,1,1,1,1,1,1
-São paulo,POTIM,1,1,1,1,1,1
-São paulo,POTIRENDABA,1,1,1,1,1,1
-São paulo,POÁ,1,1,1,1,1,1
-São paulo,PRACINHA,1,1,1,1,1,1
-São paulo,PRADÓPOLIS,1,1,1,1,1,1
-São paulo,PRAIA GRANDE,1,1,1,1,1,1
-São paulo,PRATÂNIA,1,1,1,1,1,1
-São paulo,PRESIDENTE ALVES,1,1,1,1,1,1
-São paulo,PRESIDENTE BERNARDES,1,1,1,1,1,1
-São paulo,PRESIDENTE EPITÁCIO,1,1,1,1,1,1
-São paulo,PRESIDENTE PRUDENTE,1,1,1,1,1,1
-São paulo,PRESIDENTE VENCESLAU,1,1,1,1,1,1
-São paulo,PROMISSÃO,1,1,1,1,1,1
-São paulo,QUADRA,1,1,1,1,1,1
-São paulo,QUATÁ,1,1,1,1,1,1
-São paulo,QUEIROZ,1,1,1,1,1,1
-São paulo,QUELUZ,1,1,1,1,1,1
-São paulo,QUINTANA,1,1,1,1,1,1
-São paulo,RAFARD,1,1,1,1,1,1
-São paulo,RANCHARIA,1,1,1,1,1,1
-São paulo,REDENÇÃO DA SERRA,1,1,1,1,1,1
-São paulo,REGENTE FEIJÓ,1,1,1,1,1,1
-São paulo,REGINÓPOLIS,1,1,1,1,1,1
-São paulo,REGISTRO,1,1,1,1,1,1
-São paulo,RESTINGA,1,1,1,1,1,1
-São paulo,RIBEIRA,1,1,1,1,1,1
-São paulo,RIBEIRÃO BONITO,1,1,1,1,1,1
-São paulo,RIBEIRÃO BRANCO,1,1,1,1,1,1
-São paulo,RIBEIRÃO CORRENTE,1,1,1,1,1,1
-São paulo,RIBEIRÃO DO SUL,1,1,1,1,1,1
-São paulo,RIBEIRÃO DOS ÍNDIOS,1,1,1,1,1,1
-São paulo,RIBEIRÃO GRANDE,1,1,1,1,1,1
-São paulo,RIBEIRÃO PIRES,1,1,1,1,1,1
-São paulo,RIBEIRÃO PRETO,2,2,2,2,2,2
-São paulo,RIFAINA,1,1,1,1,1,1
-São paulo,RINCÃO,1,1,1,1,1,1
-São paulo,RINÓPOLIS,1,1,1,1,1,1
-São paulo,RIO CLARO,1,1,1,1,1,1
-São paulo,RIO DAS PEDRAS,1,1,1,1,1,1
-São paulo,RIO GRANDE DA SERRA,1,1,1,1,1,1
-São paulo,RIOLÂNDIA,1,1,1,1,1,1
-São paulo,RIVERSUL,1,1,1,1,1,1
-São paulo,ROSANA,1,1,1,1,1,1
-São paulo,ROSEIRA,1,1,1,1,1,1
-São paulo,RUBINÉIA,1,1,1,1,1,1
-São paulo,RUBIÁCEA,1,1,1,1,1,1
-São paulo,SABINO,1,1,1,1,1,1
-São paulo,SAGRES,1,1,1,1,1,1
-São paulo,SALES,1,1,1,1,1,1
-São paulo,SALES OLIVEIRA,1,1,1,1,1,1
-São paulo,SALESÓPOLIS,1,1,1,1,1,1
-São paulo,SALMOURÃO,1,1,1,1,1,1
-São paulo,SALTINHO,1,1,1,1,1,1
-São paulo,SALTO,1,1,1,1,1,1
-São paulo,SALTO DE PIRAPORA,1,1,1,1,1,1
-São paulo,SALTO GRANDE,1,1,1,1,1,1
-São paulo,SANDOVALINA,1,1,1,1,1,1
-São paulo,SANTA ADÉLIA,1,1,1,1,1,1
-São paulo,SANTA ALBERTINA,1,1,1,1,1,1
-São paulo,SANTA BRANCA,1,1,1,1,1,1
-São paulo,SANTA BÁRBARA D'OESTE,1,1,1,1,1,1
-São paulo,SANTA CLARA D'OESTE,1,1,1,1,1,1
-São paulo,SANTA CRUZ DA CONCEIÇÃO,1,1,1,1,1,1
-São paulo,SANTA CRUZ DA ESPERANÇA,1,1,1,1,1,1
-São paulo,SANTA CRUZ DAS PALMEIRAS,1,1,1,1,1,1
-São paulo,SANTA CRUZ DO RIO PARDO,1,1,1,1,1,1
-São paulo,SANTA ERNESTINA,1,1,1,1,1,1
-São paulo,SANTA FÉ DO SUL,1,1,1,1,1,1
-São paulo,SANTA GERTRUDES,1,1,1,1,1,1
-São paulo,SANTA ISABEL,1,1,1,1,1,1
-São paulo,SANTA LÚCIA,1,1,1,1,1,1
-São paulo,SANTA MARIA DA SERRA,1,1,1,1,1,1
-São paulo,SANTA MERCEDES,1,1,1,1,1,1
-São paulo,SANTA RITA D'OESTE,1,1,1,1,1,1
-São paulo,SANTA RITA DO PASSA QUATRO,1,1,1,1,1,1
-São paulo,SANTA ROSA DE VITERBO,1,1,1,1,1,1
-São paulo,SANTA SALETE,1,1,1,1,1,1
-São paulo,SANTANA DA PONTE PENSA,1,1,1,1,1,1
-São paulo,SANTANA DE PARNAÍBA,1,1,1,1,1,1
-São paulo,SANTO ANASTÁCIO,1,1,1,1,1,1
-São paulo,SANTO ANDRÉ,2,2,2,2,2,2
-São paulo,SANTO ANTÔNIO DA ALEGRIA,1,1,1,1,1,1
-São paulo,SANTO ANTÔNIO DE POSSE,1,1,1,1,1,1
-São paulo,SANTO ANTÔNIO DO ARACANGUÁ,1,1,1,1,1,1
-São paulo,SANTO ANTÔNIO DO JARDIM,1,1,1,1,1,1
-São paulo,SANTO ANTÔNIO DO PINHAL,1,1,1,1,1,1
-São paulo,SANTO EXPEDITO,1,1,1,1,1,1
-São paulo,SANTOS,1,1,1,1,1,1
-São paulo,SANTÓPOLIS DO AGUAPEÍ,1,1,1,1,1,1
-São paulo,SARAPUÍ,1,1,1,1,1,1
-São paulo,SARUTAIÁ,1,1,1,1,1,1
-São paulo,SEBASTIANÓPOLIS DO SUL,1,1,1,1,1,1
-São paulo,SERRA AZUL,1,1,1,1,1,1
-São paulo,SERRA NEGRA,1,1,1,1,1,1
-São paulo,SERRANA,1,1,1,1,1,1
-São paulo,SERTÃOZINHO,1,1,1,1,1,1
-São paulo,SETE BARRAS,1,1,1,1,1,1
-São paulo,SEVERÍNIA,1,1,1,1,1,1
-São paulo,SILVEIRAS,1,1,1,1,1,1
-São paulo,SOCORRO,1,1,1,1,1,1
-São paulo,SOROCABA,2,2,2,2,2,2
-São paulo,SUD MENNUCCI,1,1,1,1,1,1
-São paulo,SUMARÉ,1,1,1,1,1,1
-São paulo,SUZANO,2,2,2,2,2,2
-São paulo,SUZANÁPOLIS,1,1,1,1,1,1
-São paulo,SÃO BENTO DO SAPUCAÍ,1,1,1,1,1,1
-São paulo,SÃO BERNARDO DO CAMPO,2,2,2,2,2,2
-São paulo,SÃO CAETANO DO SUL,1,1,1,1,1,1
-São paulo,SÃO CARLOS,1,1,1,1,1,1
-São paulo,SÃO FRANCISCO,1,1,1,1,1,1
-São paulo,SÃO JOAQUIM DA BARRA,1,1,1,1,1,1
-São paulo,SÃO JOSÉ DA BELA VISTA,1,1,1,1,1,1
-São paulo,SÃO JOSÉ DO BARREIRO,1,1,1,1,1,1
-São paulo,SÃO JOSÉ DO RIO PARDO,1,1,1,1,1,1
-São paulo,SÃO JOSÉ DO RIO PRETO,1,1,1,1,1,1
-São paulo,SÃO JOSÉ DOS CAMPOS,1,1,1,1,1,1
-São paulo,SÃO JOÃO DA BOA VISTA,1,1,1,1,1,1
-São paulo,SÃO JOÃO DAS DUAS PONTES,1,1,1,1,1,1
-São paulo,SÃO JOÃO DE IRACEMA,1,1,1,1,1,1
-São paulo,SÃO JOÃO DO PAU D'ALHO,1,1,1,1,1,1
-São paulo,SÃO LOURENÇO DA SERRA,1,1,1,1,1,1
-São paulo,SÃO LUÍS DO PARAITINGA,1,1,1,1,1,1
-São paulo,SÃO MANUEL,1,1,1,1,1,1
-São paulo,SÃO MIGUEL ARCANJO,1,1,1,1,1,1
-São paulo,SÃO PAULO,1,1,1,1,1,1
-São paulo,SÃO PEDRO,1,1,1,1,1,1
-São paulo,SÃO PEDRO DO TURVO,1,1,1,1,1,1
-São paulo,SÃO ROQUE,1,1,1,1,1,1
-São paulo,SÃO SEBASTIÃO,1,1,1,1,1,1
-São paulo,SÃO SEBASTIÃO DA GRAMA,1,1,1,1,1,1
-São paulo,SÃO SIMÃO,1,1,1,1,1,1
-São paulo,SÃO VICENTE,1,1,1,1,1,1
-São paulo,TABAPUÃ,1,1,1,1,1,1
-São paulo,TABATINGA,1,1,1,1,1,1
-São paulo,TABOÃO DA SERRA,1,1,1,1,1,1
-São paulo,TACIBA,1,1,1,1,1,1
-São paulo,TAGUAÍ,1,1,1,1,1,1
-São paulo,TAIAÇU,1,1,1,1,1,1
-São paulo,TAIÚVA,1,1,1,1,1,1
-São paulo,TAMBAÚ,1,1,1,1,1,1
-São paulo,TANABI,1,1,1,1,1,1
-São paulo,TAPIRATIBA,1,1,1,1,1,1
-São paulo,TAPIRAÍ,1,1,1,1,1,1
-São paulo,TAQUARAL,1,1,1,1,1,1
-São paulo,TAQUARITINGA,1,1,1,1,1,1
-São paulo,TAQUARITUBA,1,1,1,1,1,1
-São paulo,TAQUARIVAÍ,1,1,1,1,1,1
-São paulo,TARABAI,1,1,1,1,1,1
-São paulo,TARUMÃ,1,1,1,1,1,1
-São paulo,TATUÍ,1,1,1,1,1,1
-São paulo,TAUBATÉ,2,2,2,2,2,2
-São paulo,TEJUPÁ,1,1,1,1,1,1
-São paulo,TEODORO SAMPAIO,1,1,1,1,1,1
-São paulo,TERRA ROXA,1,1,1,1,1,1
-São paulo,TIETÊ,1,1,1,1,1,1
-São paulo,TIMBURI,1,1,1,1,1,1
-São paulo,TORRE DE PEDRA,1,1,1,1,1,1
-São paulo,TORRINHA,1,1,1,1,1,1
-São paulo,TRABIJU,1,1,1,1,1,1
-São paulo,TREMEMBÉ,1,1,1,1,1,1
-São paulo,TRÊS FRONTEIRAS,1,1,1,1,1,1
-São paulo,TUIUTI,1,1,1,1,1,1
-São paulo,TUPI PAULISTA,1,1,1,1,1,1
-São paulo,TUPÃ,1,1,1,1,1,1
-São paulo,TURIÚBA,1,1,1,1,1,1
-São paulo,TURMALINA,1,1,1,1,1,1
-São paulo,UBARANA,1,1,1,1,1,1
-São paulo,UBATUBA,1,1,1,1,1,1
-São paulo,UBIRAJARA,1,1,1,1,1,1
-São paulo,UCHOA,1,1,1,1,1,1
-São paulo,UNIÃO PAULISTA,1,1,1,1,1,1
-São paulo,URU,1,1,1,1,1,1
-São paulo,URUPÊS,1,1,1,1,1,1
-São paulo,URÂNIA,1,1,1,1,1,1
-São paulo,VALENTIM GENTIL,1,1,1,1,1,1
-São paulo,VALINHOS,1,1,1,1,1,1
-São paulo,VALPARAÍSO,1,1,1,1,1,1
-São paulo,VARGEM,1,1,1,1,1,1
-São paulo,VARGEM GRANDE DO SUL,1,1,1,1,1,1
-São paulo,VARGEM GRANDE PAULISTA,1,1,1,1,1,1
-São paulo,VERA CRUZ,1,1,1,1,1,1
-São paulo,VINHEDO,1,1,1,1,1,1
-São paulo,VIRADOURO,1,1,1,1,1,1
-São paulo,VISTA ALEGRE DO ALTO,1,1,1,1,1,1
-São paulo,VITÓRIA BRASIL,1,1,1,1,1,1
-São paulo,VOTORANTIM,1,1,1,1,1,1
-São paulo,VOTUPORANGA,1,1,1,1,1,1
-São paulo,VÁRZEA PAULISTA,1,1,1,1,1,1
-São paulo,ZACARIAS,1,1,1,1,1,1
-São paulo,ÁGUAS DA PRATA,1,1,1,1,1,1
-São paulo,ÁGUAS DE LINDÓIA,1,1,1,1,1,1
-São paulo,ÁGUAS DE SANTA BÁRBARA,1,1,1,1,1,1
-São paulo,ÁGUAS DE SÃO PEDRO,1,1,1,1,1,1
-São paulo,ÁLVARES FLORENCE,1,1,1,1,1,1
-São paulo,ÁLVARES MACHADO,1,1,1,1,1,1
-São paulo,ÁLVARO DE CARVALHO,1,1,1,1,1,1
-São paulo,ÓLEO,1,1,1,1,1,1
 Sergipe,AMPARO DE SÃO FRANCISCO,1,1,1,1,1,1
 Sergipe,AQUIDABÃ,1,1,1,1,1,1
 Sergipe,ARACAJU,2,2,2,2,2,2
@@ -5410,6 +4772,650 @@ Sergipe,TELHA,1,1,1,1,1,1
 Sergipe,TOBIAS BARRETO,1,1,1,1,1,1
 Sergipe,TOMAR DO GERU,1,1,1,1,1,1
 Sergipe,UMBAÚBA,1,1,1,1,1,1
+São paulo,ADAMANTINA,1,1,1,1,1,1
+São paulo,ADOLFO,1,1,1,1,1,1
+São paulo,AGUAÍ,1,1,1,1,1,1
+São paulo,AGUDOS,1,1,1,1,1,1
+São paulo,ALAMBARI,1,1,1,1,1,1
+São paulo,ALFREDO MARCONDES,1,1,1,1,1,1
+São paulo,ALTAIR,1,1,1,1,1,1
+São paulo,ALTINÓPOLIS,1,1,1,1,1,1
+São paulo,ALTO ALEGRE,1,1,1,1,1,1
+São paulo,ALUMÍNIO,1,1,1,1,1,1
+São paulo,ALVINLÂNDIA,1,1,1,1,1,1
+São paulo,AMERICANA,1,1,1,1,1,1
+São paulo,AMPARO,1,1,1,1,1,1
+São paulo,AMÉRICO BRASILIENSE,1,1,1,1,1,1
+São paulo,AMÉRICO DE CAMPOS,1,1,1,1,1,1
+São paulo,ANALÂNDIA,1,1,1,1,1,1
+São paulo,ANDRADINA,1,1,1,1,1,1
+São paulo,ANGATUBA,1,1,1,1,1,1
+São paulo,ANHEMBI,1,1,1,1,1,1
+São paulo,ANHUMAS,1,1,1,1,1,1
+São paulo,APARECIDA,1,1,1,1,1,1
+São paulo,APARECIDA D'OESTE,1,1,1,1,1,1
+São paulo,APIAÍ,1,1,1,1,1,1
+São paulo,ARAMINA,1,1,1,1,1,1
+São paulo,ARANDU,1,1,1,1,1,1
+São paulo,ARAPEÍ,1,1,1,1,1,1
+São paulo,ARARAQUARA,1,1,1,1,1,1
+São paulo,ARARAS,1,1,1,1,1,1
+São paulo,ARAÇARIGUAMA,1,1,1,1,1,1
+São paulo,ARAÇATUBA,1,1,1,1,1,1
+São paulo,ARAÇOIABA DA SERRA,1,1,1,1,1,1
+São paulo,ARCO-ÍRIS,1,1,1,1,1,1
+São paulo,AREALVA,1,1,1,1,1,1
+São paulo,AREIAS,1,1,1,1,1,1
+São paulo,AREIÓPOLIS,1,1,1,1,1,1
+São paulo,ARIRANHA,1,1,1,1,1,1
+São paulo,ARTUR NOGUEIRA,1,1,1,1,1,1
+São paulo,ARUJÁ,1,1,1,1,1,1
+São paulo,ASPÁSIA,1,1,1,1,1,1
+São paulo,ASSIS,1,1,1,1,1,1
+São paulo,ATIBAIA,1,1,1,1,1,1
+São paulo,AURIFLAMA,1,1,1,1,1,1
+São paulo,AVANHANDAVA,1,1,1,1,1,1
+São paulo,AVARÉ,1,1,1,1,1,1
+São paulo,AVAÍ,1,1,1,1,1,1
+São paulo,BADY BASSITT,1,1,1,1,1,1
+São paulo,BALBINOS,1,1,1,1,1,1
+São paulo,BANANAL,1,1,1,1,1,1
+São paulo,BARBOSA,1,1,1,1,1,1
+São paulo,BARIRI,1,1,1,1,1,1
+São paulo,BARRA BONITA,1,1,1,1,1,1
+São paulo,BARRA DO CHAPÉU,1,1,1,1,1,1
+São paulo,BARRA DO TURVO,1,1,1,1,1,1
+São paulo,BARRETOS,1,1,1,1,1,1
+São paulo,BARRINHA,1,1,1,1,1,1
+São paulo,BARUERI,1,1,1,1,1,1
+São paulo,BARÃO DE ANTONINA,1,1,1,1,1,1
+São paulo,BASTOS,1,1,1,1,1,1
+São paulo,BATATAIS,1,1,1,1,1,1
+São paulo,BAURU,2,2,2,2,2,2
+São paulo,BEBEDOURO,1,1,1,1,1,1
+São paulo,BENTO DE ABREU,1,1,1,1,1,1
+São paulo,BERNARDINO DE CAMPOS,1,1,1,1,1,1
+São paulo,BERTIOGA,1,1,1,1,1,1
+São paulo,BILAC,1,1,1,1,1,1
+São paulo,BIRIGUI,1,1,1,1,1,1
+São paulo,BIRITIBA MIRIM,1,1,1,1,1,1
+São paulo,BOA ESPERANÇA DO SUL,1,1,1,1,1,1
+São paulo,BOCAINA,1,1,1,1,1,1
+São paulo,BOFETE,1,1,1,1,1,1
+São paulo,BOITUVA,1,1,1,1,1,1
+São paulo,BOM JESUS DOS PERDÕES,1,1,1,1,1,1
+São paulo,BOM SUCESSO DE ITARARÉ,1,1,1,1,1,1
+São paulo,BORACÉIA,1,1,1,1,1,1
+São paulo,BORBOREMA,1,1,1,1,1,1
+São paulo,BOREBI,1,1,1,1,1,1
+São paulo,BORÁ,1,1,1,1,1,1
+São paulo,BOTUCATU,1,1,1,1,1,1
+São paulo,BRAGANÇA PAULISTA,1,1,1,1,1,1
+São paulo,BRAÚNA,1,1,1,1,1,1
+São paulo,BREJO ALEGRE,1,1,1,1,1,1
+São paulo,BRODOWSKI,1,1,1,1,1,1
+São paulo,BROTAS,1,1,1,1,1,1
+São paulo,BURI,1,1,1,1,1,1
+São paulo,BURITAMA,1,1,1,1,1,1
+São paulo,BURITIZAL,1,1,1,1,1,1
+São paulo,BÁLSAMO,1,1,1,1,1,1
+São paulo,CABREÚVA,1,1,1,1,1,1
+São paulo,CABRÁLIA PAULISTA,1,1,1,1,1,1
+São paulo,CACHOEIRA PAULISTA,1,1,1,1,1,1
+São paulo,CACONDE,1,1,1,1,1,1
+São paulo,CAFELÂNDIA,1,1,1,1,1,1
+São paulo,CAIABU,1,1,1,1,1,1
+São paulo,CAIEIRAS,1,1,1,1,1,1
+São paulo,CAIUÁ,1,1,1,1,1,1
+São paulo,CAJAMAR,1,1,1,1,1,1
+São paulo,CAJATI,1,1,1,1,1,1
+São paulo,CAJOBI,1,1,1,1,1,1
+São paulo,CAJURU,1,1,1,1,1,1
+São paulo,CAMPINA DO MONTE ALEGRE,1,1,1,1,1,1
+São paulo,CAMPINAS,1,1,1,1,1,1
+São paulo,CAMPO LIMPO PAULISTA,1,1,1,1,1,1
+São paulo,CAMPOS DO JORDÃO,1,1,1,1,1,1
+São paulo,CAMPOS NOVOS PAULISTA,1,1,1,1,1,1
+São paulo,CANANÉIA,1,1,1,1,1,1
+São paulo,CANAS,1,1,1,1,1,1
+São paulo,CANITAR,1,1,1,1,1,1
+São paulo,CAPELA DO ALTO,1,1,1,1,1,1
+São paulo,CAPIVARI,1,1,1,1,1,1
+São paulo,CAPÃO BONITO,1,1,1,1,1,1
+São paulo,CARAGUATATUBA,1,1,1,1,1,1
+São paulo,CARAPICUÍBA,1,1,1,1,1,1
+São paulo,CARDOSO,1,1,1,1,1,1
+São paulo,CASA BRANCA,1,1,1,1,1,1
+São paulo,CASTILHO,1,1,1,1,1,1
+São paulo,CATANDUVA,1,1,1,1,1,1
+São paulo,CATIGUÁ,1,1,1,1,1,1
+São paulo,CAÇAPAVA,1,1,1,1,1,1
+São paulo,CEDRAL,1,1,1,1,1,1
+São paulo,CERQUEIRA CÉSAR,1,1,1,1,1,1
+São paulo,CERQUILHO,1,1,1,1,1,1
+São paulo,CESÁRIO LANGE,1,1,1,1,1,1
+São paulo,CHARQUEADA,1,1,1,1,1,1
+São paulo,CHAVANTES,1,1,1,1,1,1
+São paulo,CLEMENTINA,1,1,1,1,1,1
+São paulo,COLINA,1,1,1,1,1,1
+São paulo,COLÔMBIA,1,1,1,1,1,1
+São paulo,CONCHAL,1,1,1,1,1,1
+São paulo,CONCHAS,1,1,1,1,1,1
+São paulo,CORDEIRÓPOLIS,1,1,1,1,1,1
+São paulo,COROADOS,1,1,1,1,1,1
+São paulo,CORONEL MACEDO,1,1,1,1,1,1
+São paulo,CORUMBATAÍ,1,1,1,1,1,1
+São paulo,COSMORAMA,1,1,1,1,1,1
+São paulo,COSMÓPOLIS,1,1,1,1,1,1
+São paulo,COTIA,1,1,1,1,1,1
+São paulo,CRAVINHOS,1,1,1,1,1,1
+São paulo,CRISTAIS PAULISTA,1,1,1,1,1,1
+São paulo,CRUZEIRO,1,1,1,1,1,1
+São paulo,CRUZÁLIA,1,1,1,1,1,1
+São paulo,CUBATÃO,1,1,1,1,1,1
+São paulo,CUNHA,1,1,1,1,1,1
+São paulo,CÁSSIA DOS COQUEIROS,1,1,1,1,1,1
+São paulo,CÂNDIDO MOTA,1,1,1,1,1,1
+São paulo,CÂNDIDO RODRIGUES,1,1,1,1,1,1
+São paulo,DESCALVADO,1,1,1,1,1,1
+São paulo,DIADEMA,2,2,2,2,2,2
+São paulo,DIRCE REIS,1,1,1,1,1,1
+São paulo,DIVINOLÂNDIA,1,1,1,1,1,1
+São paulo,DOBRADA,1,1,1,1,1,1
+São paulo,DOIS CÓRREGOS,1,1,1,1,1,1
+São paulo,DOLCINÓPOLIS,1,1,1,1,1,1
+São paulo,DOURADO,1,1,1,1,1,1
+São paulo,DRACENA,1,1,1,1,1,1
+São paulo,DUARTINA,1,1,1,1,1,1
+São paulo,DUMONT,1,1,1,1,1,1
+São paulo,ECHAPORÃ,1,1,1,1,1,1
+São paulo,ELDORADO,1,1,1,1,1,1
+São paulo,ELIAS FAUSTO,1,1,1,1,1,1
+São paulo,ELISIÁRIO,1,1,1,1,1,1
+São paulo,EMBAÚBA,1,1,1,1,1,1
+São paulo,EMBU DAS ARTES,1,1,1,1,1,1
+São paulo,EMBU-GUAÇU,1,1,1,1,1,1
+São paulo,EMILIANÓPOLIS,1,1,1,1,1,1
+São paulo,ENGENHEIRO COELHO,1,1,1,1,1,1
+São paulo,ESPÍRITO SANTO DO PINHAL,1,1,1,1,1,1
+São paulo,ESPÍRITO SANTO DO TURVO,1,1,1,1,1,1
+São paulo,ESTIVA GERBI,1,1,1,1,1,1
+São paulo,ESTRELA D'OESTE,1,1,1,1,1,1
+São paulo,ESTRELA DO NORTE,1,1,1,1,1,1
+São paulo,EUCLIDES DA CUNHA PAULISTA,1,1,1,1,1,1
+São paulo,FARTURA,1,1,1,1,1,1
+São paulo,FERNANDO PRESTES,1,1,1,1,1,1
+São paulo,FERNANDÓPOLIS,1,1,1,1,1,1
+São paulo,FERNÃO,1,1,1,1,1,1
+São paulo,FERRAZ DE VASCONCELOS,1,1,1,1,1,1
+São paulo,FLORA RICA,1,1,1,1,1,1
+São paulo,FLOREAL,1,1,1,1,1,1
+São paulo,FLORÍNEA,1,1,1,1,1,1
+São paulo,FLÓRIDA PAULISTA,1,1,1,1,1,1
+São paulo,FRANCA,2,2,2,2,2,2
+São paulo,FRANCISCO MORATO,1,1,1,1,1,1
+São paulo,FRANCO DA ROCHA,1,1,1,1,1,1
+São paulo,GABRIEL MONTEIRO,1,1,1,1,1,1
+São paulo,GARÇA,1,1,1,1,1,1
+São paulo,GASTÃO VIDIGAL,1,1,1,1,1,1
+São paulo,GAVIÃO PEIXOTO,1,1,1,1,1,1
+São paulo,GENERAL SALGADO,1,1,1,1,1,1
+São paulo,GETULINA,1,1,1,1,1,1
+São paulo,GLICÉRIO,1,1,1,1,1,1
+São paulo,GUAIMBÉ,1,1,1,1,1,1
+São paulo,GUAIÇARA,1,1,1,1,1,1
+São paulo,GUAPIARA,1,1,1,1,1,1
+São paulo,GUAPIAÇU,1,1,1,1,1,1
+São paulo,GUARACI,1,1,1,1,1,1
+São paulo,GUARANI D'OESTE,1,1,1,1,1,1
+São paulo,GUARANTÃ,1,1,1,1,1,1
+São paulo,GUARARAPES,1,1,1,1,1,1
+São paulo,GUARAREMA,1,1,1,1,1,1
+São paulo,GUARATINGUETÁ,1,1,1,1,1,1
+São paulo,GUARAÇAÍ,1,1,1,1,1,1
+São paulo,GUAREÍ,1,1,1,1,1,1
+São paulo,GUARIBA,1,1,1,1,1,1
+São paulo,GUARUJÁ,2,2,2,2,2,2
+São paulo,GUARULHOS,2,2,2,2,2,2
+São paulo,GUARÁ,1,1,1,1,1,1
+São paulo,GUATAPARÁ,1,1,1,1,1,1
+São paulo,GUAÍRA,1,1,1,1,1,1
+São paulo,GUZOLÂNDIA,1,1,1,1,1,1
+São paulo,GÁLIA,1,1,1,1,1,1
+São paulo,HERCULÂNDIA,1,1,1,1,1,1
+São paulo,HOLAMBRA,1,1,1,1,1,1
+São paulo,HORTOLÂNDIA,1,1,1,1,1,1
+São paulo,IACRI,1,1,1,1,1,1
+São paulo,IARAS,1,1,1,1,1,1
+São paulo,IBATÉ,1,1,1,1,1,1
+São paulo,IBIRAREMA,1,1,1,1,1,1
+São paulo,IBIRÁ,1,1,1,1,1,1
+São paulo,IBITINGA,1,1,1,1,1,1
+São paulo,IBIÚNA,1,1,1,1,1,1
+São paulo,ICÉM,1,1,1,1,1,1
+São paulo,IEPÊ,1,1,1,1,1,1
+São paulo,IGARAPAVA,1,1,1,1,1,1
+São paulo,IGARATÁ,1,1,1,1,1,1
+São paulo,IGARAÇU DO TIETÊ,1,1,1,1,1,1
+São paulo,IGUAPE,1,1,1,1,1,1
+São paulo,ILHA COMPRIDA,1,1,1,1,1,1
+São paulo,ILHA SOLTEIRA,1,1,1,1,1,1
+São paulo,ILHABELA,1,1,1,1,1,1
+São paulo,INDAIATUBA,1,1,1,1,1,1
+São paulo,INDIANA,1,1,1,1,1,1
+São paulo,INDIAPORÃ,1,1,1,1,1,1
+São paulo,INÚBIA PAULISTA,1,1,1,1,1,1
+São paulo,IPAUSSU,1,1,1,1,1,1
+São paulo,IPERÓ,1,1,1,1,1,1
+São paulo,IPEÚNA,1,1,1,1,1,1
+São paulo,IPIGUÁ,1,1,1,1,1,1
+São paulo,IPORANGA,1,1,1,1,1,1
+São paulo,IPUÃ,1,1,1,1,1,1
+São paulo,IRACEMÁPOLIS,1,1,1,1,1,1
+São paulo,IRAPURU,1,1,1,1,1,1
+São paulo,IRAPUÃ,1,1,1,1,1,1
+São paulo,ITABERÁ,1,1,1,1,1,1
+São paulo,ITAJOBI,1,1,1,1,1,1
+São paulo,ITAJU,1,1,1,1,1,1
+São paulo,ITANHAÉM,1,1,1,1,1,1
+São paulo,ITAOCA,1,1,1,1,1,1
+São paulo,ITAPECERICA DA SERRA,1,1,1,1,1,1
+São paulo,ITAPETININGA,1,1,1,1,1,1
+São paulo,ITAPEVA,1,1,1,1,1,1
+São paulo,ITAPEVI,1,1,1,1,1,1
+São paulo,ITAPIRA,1,1,1,1,1,1
+São paulo,ITAPIRAPUÃ PAULISTA,1,1,1,1,1,1
+São paulo,ITAPORANGA,1,1,1,1,1,1
+São paulo,ITAPURA,1,1,1,1,1,1
+São paulo,ITAPUÍ,1,1,1,1,1,1
+São paulo,ITAQUAQUECETUBA,1,1,1,1,1,1
+São paulo,ITARARÉ,1,1,1,1,1,1
+São paulo,ITARIRI,1,1,1,1,1,1
+São paulo,ITATIBA,1,1,1,1,1,1
+São paulo,ITATINGA,1,1,1,1,1,1
+São paulo,ITAÍ,1,1,1,1,1,1
+São paulo,ITIRAPINA,1,1,1,1,1,1
+São paulo,ITIRAPUÃ,1,1,1,1,1,1
+São paulo,ITOBI,1,1,1,1,1,1
+São paulo,ITU,1,1,1,1,1,1
+São paulo,ITUPEVA,1,1,1,1,1,1
+São paulo,ITUVERAVA,1,1,1,1,1,1
+São paulo,ITÁPOLIS,1,1,1,1,1,1
+São paulo,JABORANDI,1,1,1,1,1,1
+São paulo,JABOTICABAL,1,1,1,1,1,1
+São paulo,JACAREÍ,1,1,1,1,1,1
+São paulo,JACI,1,1,1,1,1,1
+São paulo,JACUPIRANGA,1,1,1,1,1,1
+São paulo,JAGUARIÚNA,1,1,1,1,1,1
+São paulo,JALES,1,1,1,1,1,1
+São paulo,JAMBEIRO,1,1,1,1,1,1
+São paulo,JANDIRA,1,1,1,1,1,1
+São paulo,JARDINÓPOLIS,1,1,1,1,1,1
+São paulo,JARINU,1,1,1,1,1,1
+São paulo,JAÚ,1,1,1,1,1,1
+São paulo,JERIQUARA,1,1,1,1,1,1
+São paulo,JOANÓPOLIS,1,1,1,1,1,1
+São paulo,JOSÉ BONIFÁCIO,1,1,1,1,1,1
+São paulo,JOÃO RAMALHO,1,1,1,1,1,1
+São paulo,JUMIRIM,1,1,1,1,1,1
+São paulo,JUNDIAÍ,2,2,2,2,2,2
+São paulo,JUNQUEIRÓPOLIS,1,1,1,1,1,1
+São paulo,JUQUITIBA,1,1,1,1,1,1
+São paulo,JUQUIÁ,1,1,1,1,1,1
+São paulo,JÚLIO MESQUITA,1,1,1,1,1,1
+São paulo,LAGOINHA,1,1,1,1,1,1
+São paulo,LARANJAL PAULISTA,1,1,1,1,1,1
+São paulo,LAVRINHAS,1,1,1,1,1,1
+São paulo,LAVÍNIA,1,1,1,1,1,1
+São paulo,LEME,1,1,1,1,1,1
+São paulo,LENÇÓIS PAULISTA,1,1,1,1,1,1
+São paulo,LIMEIRA,1,1,1,1,1,1
+São paulo,LINDÓIA,1,1,1,1,1,1
+São paulo,LINS,1,1,1,1,1,1
+São paulo,LORENA,1,1,1,1,1,1
+São paulo,LOURDES,1,1,1,1,1,1
+São paulo,LOUVEIRA,1,1,1,1,1,1
+São paulo,LUCIANÓPOLIS,1,1,1,1,1,1
+São paulo,LUCÉLIA,1,1,1,1,1,1
+São paulo,LUIZIÂNIA,1,1,1,1,1,1
+São paulo,LUPÉRCIO,1,1,1,1,1,1
+São paulo,LUTÉCIA,1,1,1,1,1,1
+São paulo,LUÍS ANTÔNIO,1,1,1,1,1,1
+São paulo,MACATUBA,1,1,1,1,1,1
+São paulo,MACAUBAL,1,1,1,1,1,1
+São paulo,MACEDÔNIA,1,1,1,1,1,1
+São paulo,MAGDA,1,1,1,1,1,1
+São paulo,MAIRINQUE,1,1,1,1,1,1
+São paulo,MAIRIPORÃ,1,1,1,1,1,1
+São paulo,MANDURI,1,1,1,1,1,1
+São paulo,MARABÁ PAULISTA,1,1,1,1,1,1
+São paulo,MARACAÍ,1,1,1,1,1,1
+São paulo,MARAPOAMA,1,1,1,1,1,1
+São paulo,MARINÓPOLIS,1,1,1,1,1,1
+São paulo,MARIÁPOLIS,1,1,1,1,1,1
+São paulo,MARTINÓPOLIS,1,1,1,1,1,1
+São paulo,MARÍLIA,1,1,1,1,1,1
+São paulo,MATÃO,1,1,1,1,1,1
+São paulo,MAUÁ,2,2,2,2,2,2
+São paulo,MENDONÇA,1,1,1,1,1,1
+São paulo,MERIDIANO,1,1,1,1,1,1
+São paulo,MESÓPOLIS,1,1,1,1,1,1
+São paulo,MIGUELÓPOLIS,1,1,1,1,1,1
+São paulo,MINEIROS DO TIETÊ,1,1,1,1,1,1
+São paulo,MIRA ESTRELA,1,1,1,1,1,1
+São paulo,MIRACATU,1,1,1,1,1,1
+São paulo,MIRANDÓPOLIS,1,1,1,1,1,1
+São paulo,MIRANTE DO PARANAPANEMA,1,1,1,1,1,1
+São paulo,MIRASSOL,1,1,1,1,1,1
+São paulo,MIRASSOLÂNDIA,1,1,1,1,1,1
+São paulo,MOCOCA,1,1,1,1,1,1
+São paulo,MOGI DAS CRUZES,1,1,1,1,1,1
+São paulo,MOGI GUAÇU,1,1,1,1,1,1
+São paulo,MOGI MIRIM,1,1,1,1,1,1
+São paulo,MOMBUCA,1,1,1,1,1,1
+São paulo,MONGAGUÁ,1,1,1,1,1,1
+São paulo,MONTE ALEGRE DO SUL,1,1,1,1,1,1
+São paulo,MONTE ALTO,1,1,1,1,1,1
+São paulo,MONTE APRAZÍVEL,1,1,1,1,1,1
+São paulo,MONTE AZUL PAULISTA,1,1,1,1,1,1
+São paulo,MONTE CASTELO,1,1,1,1,1,1
+São paulo,MONTE MOR,1,1,1,1,1,1
+São paulo,MONTEIRO LOBATO,1,1,1,1,1,1
+São paulo,MONÇÕES,1,1,1,1,1,1
+São paulo,MORRO AGUDO,1,1,1,1,1,1
+São paulo,MORUNGABA,1,1,1,1,1,1
+São paulo,MOTUCA,1,1,1,1,1,1
+São paulo,MURUTINGA DO SUL,1,1,1,1,1,1
+São paulo,NANTES,1,1,1,1,1,1
+São paulo,NARANDIBA,1,1,1,1,1,1
+São paulo,NATIVIDADE DA SERRA,1,1,1,1,1,1
+São paulo,NAZARÉ PAULISTA,1,1,1,1,1,1
+São paulo,NEVES PAULISTA,1,1,1,1,1,1
+São paulo,NHANDEARA,1,1,1,1,1,1
+São paulo,NIPOÃ,1,1,1,1,1,1
+São paulo,NOVA ALIANÇA,1,1,1,1,1,1
+São paulo,NOVA CAMPINA,1,1,1,1,1,1
+São paulo,NOVA CANAÃ PAULISTA,1,1,1,1,1,1
+São paulo,NOVA CASTILHO,1,1,1,1,1,1
+São paulo,NOVA EUROPA,1,1,1,1,1,1
+São paulo,NOVA GRANADA,1,1,1,1,1,1
+São paulo,NOVA GUATAPORANGA,1,1,1,1,1,1
+São paulo,NOVA INDEPENDÊNCIA,1,1,1,1,1,1
+São paulo,NOVA LUZITÂNIA,1,1,1,1,1,1
+São paulo,NOVA ODESSA,1,1,1,1,1,1
+São paulo,NOVAIS,1,1,1,1,1,1
+São paulo,NOVO HORIZONTE,1,1,1,1,1,1
+São paulo,NUPORANGA,1,1,1,1,1,1
+São paulo,OCAUÇU,1,1,1,1,1,1
+São paulo,OLÍMPIA,1,1,1,1,1,1
+São paulo,ONDA VERDE,1,1,1,1,1,1
+São paulo,ORIENTE,1,1,1,1,1,1
+São paulo,ORINDIÚVA,1,1,1,1,1,1
+São paulo,ORLÂNDIA,1,1,1,1,1,1
+São paulo,OSASCO,2,2,2,2,2,2
+São paulo,OSCAR BRESSANE,1,1,1,1,1,1
+São paulo,OSVALDO CRUZ,1,1,1,1,1,1
+São paulo,OURINHOS,1,1,1,1,1,1
+São paulo,OURO VERDE,1,1,1,1,1,1
+São paulo,OUROESTE,1,1,1,1,1,1
+São paulo,PACAEMBU,1,1,1,1,1,1
+São paulo,PALESTINA,1,1,1,1,1,1
+São paulo,PALMARES PAULISTA,1,1,1,1,1,1
+São paulo,PALMEIRA D'OESTE,1,1,1,1,1,1
+São paulo,PALMITAL,1,1,1,1,1,1
+São paulo,PANORAMA,1,1,1,1,1,1
+São paulo,PARAGUAÇU PAULISTA,1,1,1,1,1,1
+São paulo,PARAIBUNA,1,1,1,1,1,1
+São paulo,PARANAPANEMA,1,1,1,1,1,1
+São paulo,PARANAPUÃ,1,1,1,1,1,1
+São paulo,PARAPUÃ,1,1,1,1,1,1
+São paulo,PARAÍSO,1,1,1,1,1,1
+São paulo,PARDINHO,1,1,1,1,1,1
+São paulo,PARIQUERA-AÇU,1,1,1,1,1,1
+São paulo,PARISI,1,1,1,1,1,1
+São paulo,PATROCÍNIO PAULISTA,1,1,1,1,1,1
+São paulo,PAULICÉIA,1,1,1,1,1,1
+São paulo,PAULISTÂNIA,1,1,1,1,1,1
+São paulo,PAULO DE FARIA,1,1,1,1,1,1
+São paulo,PAULÍNIA,1,1,1,1,1,1
+São paulo,PEDERNEIRAS,1,1,1,1,1,1
+São paulo,PEDRA BELA,1,1,1,1,1,1
+São paulo,PEDRANÓPOLIS,1,1,1,1,1,1
+São paulo,PEDREGULHO,1,1,1,1,1,1
+São paulo,PEDREIRA,1,1,1,1,1,1
+São paulo,PEDRINHAS PAULISTA,1,1,1,1,1,1
+São paulo,PEDRO DE TOLEDO,1,1,1,1,1,1
+São paulo,PENÁPOLIS,1,1,1,1,1,1
+São paulo,PEREIRA BARRETO,1,1,1,1,1,1
+São paulo,PEREIRAS,1,1,1,1,1,1
+São paulo,PERUÍBE,1,1,1,1,1,1
+São paulo,PIACATU,1,1,1,1,1,1
+São paulo,PIEDADE,1,1,1,1,1,1
+São paulo,PILAR DO SUL,1,1,1,1,1,1
+São paulo,PINDAMONHANGABA,1,1,1,1,1,1
+São paulo,PINDORAMA,1,1,1,1,1,1
+São paulo,PINHALZINHO,1,1,1,1,1,1
+São paulo,PIQUEROBI,1,1,1,1,1,1
+São paulo,PIQUETE,1,1,1,1,1,1
+São paulo,PIRACAIA,1,1,1,1,1,1
+São paulo,PIRACICABA,1,1,1,1,1,1
+São paulo,PIRAJU,1,1,1,1,1,1
+São paulo,PIRAJUÍ,1,1,1,1,1,1
+São paulo,PIRANGI,1,1,1,1,1,1
+São paulo,PIRAPORA DO BOM JESUS,1,1,1,1,1,1
+São paulo,PIRAPOZINHO,1,1,1,1,1,1
+São paulo,PIRASSUNUNGA,1,1,1,1,1,1
+São paulo,PIRATININGA,1,1,1,1,1,1
+São paulo,PITANGUEIRAS,1,1,1,1,1,1
+São paulo,PLANALTO,1,1,1,1,1,1
+São paulo,PLATINA,1,1,1,1,1,1
+São paulo,POLONI,1,1,1,1,1,1
+São paulo,POMPÉIA,1,1,1,1,1,1
+São paulo,PONGAÍ,1,1,1,1,1,1
+São paulo,PONTAL,1,1,1,1,1,1
+São paulo,PONTALINDA,1,1,1,1,1,1
+São paulo,PONTES GESTAL,1,1,1,1,1,1
+São paulo,POPULINA,1,1,1,1,1,1
+São paulo,PORANGABA,1,1,1,1,1,1
+São paulo,PORTO FELIZ,1,1,1,1,1,1
+São paulo,PORTO FERREIRA,1,1,1,1,1,1
+São paulo,POTIM,1,1,1,1,1,1
+São paulo,POTIRENDABA,1,1,1,1,1,1
+São paulo,POÁ,1,1,1,1,1,1
+São paulo,PRACINHA,1,1,1,1,1,1
+São paulo,PRADÓPOLIS,1,1,1,1,1,1
+São paulo,PRAIA GRANDE,1,1,1,1,1,1
+São paulo,PRATÂNIA,1,1,1,1,1,1
+São paulo,PRESIDENTE ALVES,1,1,1,1,1,1
+São paulo,PRESIDENTE BERNARDES,1,1,1,1,1,1
+São paulo,PRESIDENTE EPITÁCIO,1,1,1,1,1,1
+São paulo,PRESIDENTE PRUDENTE,1,1,1,1,1,1
+São paulo,PRESIDENTE VENCESLAU,1,1,1,1,1,1
+São paulo,PROMISSÃO,1,1,1,1,1,1
+São paulo,QUADRA,1,1,1,1,1,1
+São paulo,QUATÁ,1,1,1,1,1,1
+São paulo,QUEIROZ,1,1,1,1,1,1
+São paulo,QUELUZ,1,1,1,1,1,1
+São paulo,QUINTANA,1,1,1,1,1,1
+São paulo,RAFARD,1,1,1,1,1,1
+São paulo,RANCHARIA,1,1,1,1,1,1
+São paulo,REDENÇÃO DA SERRA,1,1,1,1,1,1
+São paulo,REGENTE FEIJÓ,1,1,1,1,1,1
+São paulo,REGINÓPOLIS,1,1,1,1,1,1
+São paulo,REGISTRO,1,1,1,1,1,1
+São paulo,RESTINGA,1,1,1,1,1,1
+São paulo,RIBEIRA,1,1,1,1,1,1
+São paulo,RIBEIRÃO BONITO,1,1,1,1,1,1
+São paulo,RIBEIRÃO BRANCO,1,1,1,1,1,1
+São paulo,RIBEIRÃO CORRENTE,1,1,1,1,1,1
+São paulo,RIBEIRÃO DO SUL,1,1,1,1,1,1
+São paulo,RIBEIRÃO DOS ÍNDIOS,1,1,1,1,1,1
+São paulo,RIBEIRÃO GRANDE,1,1,1,1,1,1
+São paulo,RIBEIRÃO PIRES,1,1,1,1,1,1
+São paulo,RIBEIRÃO PRETO,2,2,2,2,2,2
+São paulo,RIFAINA,1,1,1,1,1,1
+São paulo,RINCÃO,1,1,1,1,1,1
+São paulo,RINÓPOLIS,1,1,1,1,1,1
+São paulo,RIO CLARO,1,1,1,1,1,1
+São paulo,RIO DAS PEDRAS,1,1,1,1,1,1
+São paulo,RIO GRANDE DA SERRA,1,1,1,1,1,1
+São paulo,RIOLÂNDIA,1,1,1,1,1,1
+São paulo,RIVERSUL,1,1,1,1,1,1
+São paulo,ROSANA,1,1,1,1,1,1
+São paulo,ROSEIRA,1,1,1,1,1,1
+São paulo,RUBINÉIA,1,1,1,1,1,1
+São paulo,RUBIÁCEA,1,1,1,1,1,1
+São paulo,SABINO,1,1,1,1,1,1
+São paulo,SAGRES,1,1,1,1,1,1
+São paulo,SALES,1,1,1,1,1,1
+São paulo,SALES OLIVEIRA,1,1,1,1,1,1
+São paulo,SALESÓPOLIS,1,1,1,1,1,1
+São paulo,SALMOURÃO,1,1,1,1,1,1
+São paulo,SALTINHO,1,1,1,1,1,1
+São paulo,SALTO,1,1,1,1,1,1
+São paulo,SALTO DE PIRAPORA,1,1,1,1,1,1
+São paulo,SALTO GRANDE,1,1,1,1,1,1
+São paulo,SANDOVALINA,1,1,1,1,1,1
+São paulo,SANTA ADÉLIA,1,1,1,1,1,1
+São paulo,SANTA ALBERTINA,1,1,1,1,1,1
+São paulo,SANTA BRANCA,1,1,1,1,1,1
+São paulo,SANTA BÁRBARA D'OESTE,1,1,1,1,1,1
+São paulo,SANTA CLARA D'OESTE,1,1,1,1,1,1
+São paulo,SANTA CRUZ DA CONCEIÇÃO,1,1,1,1,1,1
+São paulo,SANTA CRUZ DA ESPERANÇA,1,1,1,1,1,1
+São paulo,SANTA CRUZ DAS PALMEIRAS,1,1,1,1,1,1
+São paulo,SANTA CRUZ DO RIO PARDO,1,1,1,1,1,1
+São paulo,SANTA ERNESTINA,1,1,1,1,1,1
+São paulo,SANTA FÉ DO SUL,1,1,1,1,1,1
+São paulo,SANTA GERTRUDES,1,1,1,1,1,1
+São paulo,SANTA ISABEL,1,1,1,1,1,1
+São paulo,SANTA LÚCIA,1,1,1,1,1,1
+São paulo,SANTA MARIA DA SERRA,1,1,1,1,1,1
+São paulo,SANTA MERCEDES,1,1,1,1,1,1
+São paulo,SANTA RITA D'OESTE,1,1,1,1,1,1
+São paulo,SANTA RITA DO PASSA QUATRO,1,1,1,1,1,1
+São paulo,SANTA ROSA DE VITERBO,1,1,1,1,1,1
+São paulo,SANTA SALETE,1,1,1,1,1,1
+São paulo,SANTANA DA PONTE PENSA,1,1,1,1,1,1
+São paulo,SANTANA DE PARNAÍBA,1,1,1,1,1,1
+São paulo,SANTO ANASTÁCIO,1,1,1,1,1,1
+São paulo,SANTO ANDRÉ,2,2,2,2,2,2
+São paulo,SANTO ANTÔNIO DA ALEGRIA,1,1,1,1,1,1
+São paulo,SANTO ANTÔNIO DE POSSE,1,1,1,1,1,1
+São paulo,SANTO ANTÔNIO DO ARACANGUÁ,1,1,1,1,1,1
+São paulo,SANTO ANTÔNIO DO JARDIM,1,1,1,1,1,1
+São paulo,SANTO ANTÔNIO DO PINHAL,1,1,1,1,1,1
+São paulo,SANTO EXPEDITO,1,1,1,1,1,1
+São paulo,SANTOS,1,1,1,1,1,1
+São paulo,SANTÓPOLIS DO AGUAPEÍ,1,1,1,1,1,1
+São paulo,SARAPUÍ,1,1,1,1,1,1
+São paulo,SARUTAIÁ,1,1,1,1,1,1
+São paulo,SEBASTIANÓPOLIS DO SUL,1,1,1,1,1,1
+São paulo,SERRA AZUL,1,1,1,1,1,1
+São paulo,SERRA NEGRA,1,1,1,1,1,1
+São paulo,SERRANA,1,1,1,1,1,1
+São paulo,SERTÃOZINHO,1,1,1,1,1,1
+São paulo,SETE BARRAS,1,1,1,1,1,1
+São paulo,SEVERÍNIA,1,1,1,1,1,1
+São paulo,SILVEIRAS,1,1,1,1,1,1
+São paulo,SOCORRO,1,1,1,1,1,1
+São paulo,SOROCABA,2,2,2,2,2,2
+São paulo,SUD MENNUCCI,1,1,1,1,1,1
+São paulo,SUMARÉ,1,1,1,1,1,1
+São paulo,SUZANO,2,2,2,2,2,2
+São paulo,SUZANÁPOLIS,1,1,1,1,1,1
+São paulo,SÃO BENTO DO SAPUCAÍ,1,1,1,1,1,1
+São paulo,SÃO BERNARDO DO CAMPO,2,2,2,2,2,2
+São paulo,SÃO CAETANO DO SUL,1,1,1,1,1,1
+São paulo,SÃO CARLOS,1,1,1,1,1,1
+São paulo,SÃO FRANCISCO,1,1,1,1,1,1
+São paulo,SÃO JOAQUIM DA BARRA,1,1,1,1,1,1
+São paulo,SÃO JOSÉ DA BELA VISTA,1,1,1,1,1,1
+São paulo,SÃO JOSÉ DO BARREIRO,1,1,1,1,1,1
+São paulo,SÃO JOSÉ DO RIO PARDO,1,1,1,1,1,1
+São paulo,SÃO JOSÉ DO RIO PRETO,1,1,1,1,1,1
+São paulo,SÃO JOSÉ DOS CAMPOS,1,1,1,1,1,1
+São paulo,SÃO JOÃO DA BOA VISTA,1,1,1,1,1,1
+São paulo,SÃO JOÃO DAS DUAS PONTES,1,1,1,1,1,1
+São paulo,SÃO JOÃO DE IRACEMA,1,1,1,1,1,1
+São paulo,SÃO JOÃO DO PAU D'ALHO,1,1,1,1,1,1
+São paulo,SÃO LOURENÇO DA SERRA,1,1,1,1,1,1
+São paulo,SÃO LUÍS DO PARAITINGA,1,1,1,1,1,1
+São paulo,SÃO MANUEL,1,1,1,1,1,1
+São paulo,SÃO MIGUEL ARCANJO,1,1,1,1,1,1
+São paulo,SÃO PAULO,1,1,1,1,1,1
+São paulo,SÃO PEDRO,1,1,1,1,1,1
+São paulo,SÃO PEDRO DO TURVO,1,1,1,1,1,1
+São paulo,SÃO ROQUE,1,1,1,1,1,1
+São paulo,SÃO SEBASTIÃO,1,1,1,1,1,1
+São paulo,SÃO SEBASTIÃO DA GRAMA,1,1,1,1,1,1
+São paulo,SÃO SIMÃO,1,1,1,1,1,1
+São paulo,SÃO VICENTE,1,1,1,1,1,1
+São paulo,TABAPUÃ,1,1,1,1,1,1
+São paulo,TABATINGA,1,1,1,1,1,1
+São paulo,TABOÃO DA SERRA,1,1,1,1,1,1
+São paulo,TACIBA,1,1,1,1,1,1
+São paulo,TAGUAÍ,1,1,1,1,1,1
+São paulo,TAIAÇU,1,1,1,1,1,1
+São paulo,TAIÚVA,1,1,1,1,1,1
+São paulo,TAMBAÚ,1,1,1,1,1,1
+São paulo,TANABI,1,1,1,1,1,1
+São paulo,TAPIRATIBA,1,1,1,1,1,1
+São paulo,TAPIRAÍ,1,1,1,1,1,1
+São paulo,TAQUARAL,1,1,1,1,1,1
+São paulo,TAQUARITINGA,1,1,1,1,1,1
+São paulo,TAQUARITUBA,1,1,1,1,1,1
+São paulo,TAQUARIVAÍ,1,1,1,1,1,1
+São paulo,TARABAI,1,1,1,1,1,1
+São paulo,TARUMÃ,1,1,1,1,1,1
+São paulo,TATUÍ,1,1,1,1,1,1
+São paulo,TAUBATÉ,2,2,2,2,2,2
+São paulo,TEJUPÁ,1,1,1,1,1,1
+São paulo,TEODORO SAMPAIO,1,1,1,1,1,1
+São paulo,TERRA ROXA,1,1,1,1,1,1
+São paulo,TIETÊ,1,1,1,1,1,1
+São paulo,TIMBURI,1,1,1,1,1,1
+São paulo,TORRE DE PEDRA,1,1,1,1,1,1
+São paulo,TORRINHA,1,1,1,1,1,1
+São paulo,TRABIJU,1,1,1,1,1,1
+São paulo,TREMEMBÉ,1,1,1,1,1,1
+São paulo,TRÊS FRONTEIRAS,1,1,1,1,1,1
+São paulo,TUIUTI,1,1,1,1,1,1
+São paulo,TUPI PAULISTA,1,1,1,1,1,1
+São paulo,TUPÃ,1,1,1,1,1,1
+São paulo,TURIÚBA,1,1,1,1,1,1
+São paulo,TURMALINA,1,1,1,1,1,1
+São paulo,UBARANA,1,1,1,1,1,1
+São paulo,UBATUBA,1,1,1,1,1,1
+São paulo,UBIRAJARA,1,1,1,1,1,1
+São paulo,UCHOA,1,1,1,1,1,1
+São paulo,UNIÃO PAULISTA,1,1,1,1,1,1
+São paulo,URU,1,1,1,1,1,1
+São paulo,URUPÊS,1,1,1,1,1,1
+São paulo,URÂNIA,1,1,1,1,1,1
+São paulo,VALENTIM GENTIL,1,1,1,1,1,1
+São paulo,VALINHOS,1,1,1,1,1,1
+São paulo,VALPARAÍSO,1,1,1,1,1,1
+São paulo,VARGEM,1,1,1,1,1,1
+São paulo,VARGEM GRANDE DO SUL,1,1,1,1,1,1
+São paulo,VARGEM GRANDE PAULISTA,1,1,1,1,1,1
+São paulo,VERA CRUZ,1,1,1,1,1,1
+São paulo,VINHEDO,1,1,1,1,1,1
+São paulo,VIRADOURO,1,1,1,1,1,1
+São paulo,VISTA ALEGRE DO ALTO,1,1,1,1,1,1
+São paulo,VITÓRIA BRASIL,1,1,1,1,1,1
+São paulo,VOTORANTIM,1,1,1,1,1,1
+São paulo,VOTUPORANGA,1,1,1,1,1,1
+São paulo,VÁRZEA PAULISTA,1,1,1,1,1,1
+São paulo,ZACARIAS,1,1,1,1,1,1
+São paulo,ÁGUAS DA PRATA,1,1,1,1,1,1
+São paulo,ÁGUAS DE LINDÓIA,1,1,1,1,1,1
+São paulo,ÁGUAS DE SANTA BÁRBARA,1,1,1,1,1,1
+São paulo,ÁGUAS DE SÃO PEDRO,1,1,1,1,1,1
+São paulo,ÁLVARES FLORENCE,1,1,1,1,1,1
+São paulo,ÁLVARES MACHADO,1,1,1,1,1,1
+São paulo,ÁLVARO DE CARVALHO,1,1,1,1,1,1
+São paulo,ÓLEO,1,1,1,1,1,1
 Tocantins,ABREULÂNDIA,1,1,1,1,1,1
 Tocantins,AGUIARNÓPOLIS,1,1,1,1,1,1
 Tocantins,ALIANÇA DO TOCANTINS,1,1,1,1,1,1
